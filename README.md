@@ -27,7 +27,7 @@
 | [docs/05_what_did_not_work.md](docs/05_what_did_not_work.md) | 86 закрытых осей с числами и разбором, какие закрытия были ошибочными |
 | [docs/06_landscape.md](docs/06_landscape.md) | что опубликовали команды выше нас и на чём именно они набрали разрыв |
 | [docs/07_lessons.md](docs/07_lessons.md) | семь методологических уроков кампании |
-| [appendix/](appendix) | `scores.csv` (86 отправок), `closed_axes.md`, `finals_standings.csv` (1448 строк), `shift_stats.json`, `archive_index.csv` |
+| [appendix/](appendix) | `scores.md` и `scores.csv` (86 отправок), `closed_axes.md`, `finals_standings.csv` (1448 строк), `shift_stats.json`, `archive_index.csv` |
 | [code/](code) | ключевые файлы пайплайна: обучение, оценка, упаковка (данные не включены) |
 
 ## Главные числа
