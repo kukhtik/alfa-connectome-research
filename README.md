@@ -28,7 +28,7 @@
 | [docs/06_landscape.md](docs/06_landscape.md) | что опубликовали команды выше нас и на чём именно они набрали разрыв |
 | [docs/07_lessons.md](docs/07_lessons.md) | семь методологических уроков кампании |
 | [docs/08_measurement_discipline.md](docs/08_measurement_discipline.md) | дисциплина измерений: метрика, тихие ошибки, чистота среза, время, отбор |
-| [appendix/](appendix) | `scores.md` и `scores.csv` (86 отправок), `closed_axes.md`, `finals_standings.csv` (1448 строк), `shift_stats.json`, `archive_index.csv` |
+| [appendix/](appendix) | `scores.md` и `scores.csv` (86 отправок), `closed_axes.md`, [finals_standings.csv](appendix/finals_standings.csv) (1448 строк), `shift_stats.json`; индекс полного архива (683 документа) — в приватном `kukhtik/wnn33-archive` |
 | [code/](code) | ключевые файлы пайплайна: обучение, оценка, упаковка (данные не включены) |
 
 ## Главные числа
